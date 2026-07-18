@@ -1,0 +1,108 @@
+{
+  "work_experience": [
+    {
+      "title": "Software Engineer Intern",
+      "company": "Mukuru",
+      "period": "2026 – PRESENT",
+      "duties": [
+        "Develop and maintain backend solutions using C# and .NET.",
+        "Gain hands-on experience with software testing, debugging, and code reviews."
+      ]
+    },
+    {
+      "title": "AWS Cloud Support Associate Intern",
+      "company": "Amazon Web Services (AWS)",
+      "period": "Feb 2025 – Aug 2025",
+      "duties": [
+        "Completed an intensive cloud computing program covering Cloud Foundations, Networking, Linux, and Governance.",
+        "Collaborated with a team to design, build, and present a cloud-based application."
+      ]
+    }
+  ],
+  "professional_certificates": [
+    {
+      "certificate": "AWS Certified Solutions Architect – Professional",
+      "image": "https://asandam.github.io/images/SAP-C02.png",
+      "url": "https://www.credly.com/badges/137b9dbc-b2aa-4e42-980c-7ea709e4f78c/public_url"
+    },
+    {
+      "certificate": "AWS Certified Solutions Architect – Associate",
+      "image": "https://asandam.github.io/images/SAA-C03.png",
+      "url": "https://www.credly.com/badges/31181e01-62b3-4983-a07c-570f878289cc/public_url"
+    },
+    {
+      "certificate": "AWS Certified CloudOps Engineer – Associate",
+      "image": "https://asandam.github.io/images/SOA-C03.png",
+      "url": "https://www.credly.com/badges/52de217c-7146-42fc-9627-8bc28ff6fe0b/public_url"
+    },
+    {
+      "certificate": "AWS Certified AI Practitioner",
+      "image": "https://asandam.github.io/images/AIF-C01.png",
+      "url": "https://www.credly.com/badges/b606ea73-77e1-4435-816b-993ac991ec18/public_url"
+    }
+  ],
+  "technical_skills": {
+    "languages": ["C#", "Python", "SQL", "C++", "JavaScript" ],
+    "frontend": ["HTML", "CSS", "Bootstrap", "Vue.js", "Three.js"],
+    "infrastructure": ["AWS", "Docker", "Redis"],
+    "specialized": [".NET Development", "Cloud Computing", "API Development", "AWS Services"]
+  },
+  "projects": [
+    {
+      "name": "E-Commerce Project",
+      "image": "https://asandam.github.io/images/images_capstone/nutrifynow.png",
+      "description": "Developed an e-commerce platform with Vue.js frontend and Node.js/Express.js backend. Implemented JWT authentication and responsive design, utilizing MySQL for data storage. Enhanced skills in full-stack development and RESTful API design.",
+      "github": "https://github.com/AsandaM/capstone-project.git",
+      "vercel": "https://capstone-ecommerce-3d5bf.web.app/"
+    },
+    {
+      "name": "Point-Of-Sale (POS) System",
+      "image": "https://asandam.github.io/images/ecom.png",
+      "description": "Developed a dynamic Point-Of-Sale (POS) system with a user-friendly interface. Key features include product management, transaction processing, and local storage integration for data persistence.",
+      "github": "https://github.com/AsandaM/JS-EOMP.git",
+      "vercel": "https://js-eomp-eta.vercel.app/"
+    },
+    {
+      "name": "BMI Calculator",
+      "image": "https://asandam.github.io/images/bmi.png",
+      "description": "Created a BMI Calculator using JavaScript that allows users to calculate BMI with real-time input validation and categorized results.",
+      "github": "https://github.com/AsandaM/bmi.git",
+      "vercel": "https://bmi-teal.vercel.app/"
+    },
+    {
+      "name": "Temperature Converter",
+      "image": "https://asandam.github.io/images/temp.png",
+      "description": "Developed a Temperature Converter app using JavaScript to convert temperatures between Celsius, Fahrenheit, and Kelvin.",
+      "github": "https://github.com/AsandaM/temperature.git",
+      "vercel": "https://temperature-one.vercel.app/"
+    },
+    {
+      "name": "Calculator",
+      "image": "https://asandam.github.io/images/calc.jpg",
+      "description": "Designed a responsive calculator interface using HTML, CSS, and JavaScript. Focused on building an intuitive and visually appealing layout.",
+      "github": "https://github.com/AsandaM/Task3.git",
+      "vercel": "https://task3-teal-one.vercel.app/"
+    },
+    {
+      "name": "Hex-to-RGB Converter",
+      "image": "https://asandam.github.io/images/convertor.png",
+      "description": "Developed a Hex-RGB Converter using JavaScript, allowing users to convert color codes seamlessly between HEX and RGB formats.",
+      "github": "https://github.com/AsandaM/hexToRGB.git",
+      "vercel": "https://hex-to-rgb-six.vercel.app/"
+    },
+    {
+      "name": "RGB-to-Hex Converter",
+      "image": "https://asandam.github.io/images/rgb.png",
+      "description": "Built a RGB-to-Hex Converter app using JavaScript for converting RGB color codes into hexadecimal values.",
+      "github": "https://github.com/AsandaM/RGBToHex.git",
+      "vercel": "https://rgb-to-hex-three.vercel.app/"
+    },
+    {
+      "name": "To-Do List",
+      "image": "https://asandam.github.io/images/toDoList.png",
+      "description": "Developed a To-Do List application using JavaScript. Includes task creation, deletion, and completion tracking with clean user interface.",
+      "github": "https://github.com/AsandaM/toDoList.git",
+      "vercel": "https://to-do-list-peach-eta.vercel.app/"
+    }
+  ]
+}
